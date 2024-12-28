@@ -59,10 +59,21 @@ hr {
 }
 
 .footer {
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     text-align: center;
+}
+.gadha{
+    font-size: 80px;
+    color: azure;
+}
+.gadha:hover{
+    color:red;
+}
+a {
+    color: rgb(219, 153, 108);
 
 }
-a{
-    font-size: 60px;
+
+a:hover {
+    color: #ffffff;
 }

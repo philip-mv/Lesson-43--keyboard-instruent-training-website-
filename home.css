@@ -64,5 +64,13 @@ hr {
 
 }
 a {
-    font-size: 80px;
+ color: rgb(219,153,108);
+ 
+}
+a:hover{
+    color: #ffffff;
+}
+.carousel-inner{
+height: 450px;
+    
 }
